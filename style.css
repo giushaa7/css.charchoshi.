@@ -1,0 +1,10 @@
+body {
+    box-sizing: border-box;
+}
+.box {
+    height: 180px;
+    width: 330px;
+    margin: top 73px;
+    margin: left 109px;
+    border: 6px solid blue;
+}
